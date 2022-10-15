@@ -9,7 +9,7 @@
  }
  .header {
    grid-area: 1/1;  
-   background-color: black; 
+   background-color: rgb(83, 82, 82); 
    color:white
   }
   .nav-group { 
