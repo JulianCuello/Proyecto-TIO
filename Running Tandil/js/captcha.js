@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", ()=>{
     let respuesta= document.querySelector("#respuesta");
 
 
-    let captcha = "KheprI10";
+    let captcha = "KheprI21";
     //la funcion mostrar captcha me traigo otro p para mostrar el captcha por pantalla
     function mostrarCaptcha () {
         let textoCaptcha = document.querySelector("#captcha");  
