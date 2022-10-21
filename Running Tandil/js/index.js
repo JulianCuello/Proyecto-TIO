@@ -1,6 +1,21 @@
 " use strict"
 
 document.addEventListener("DOMContentLoaded", ()=>{
+
+  /*COMENTARIOS*/
+  let btn_comentario = document.querySelector("#buttonComentario").addEventListener('click', (f) => {
+    mostrarAgradecimiento();
+    setTimeout(mostrarAgradecimiento, 2000);
+  })
+
+  function mostrarAgradecimiento(){
+    let agradecimiento = document.querySelector(".textoAgradecimiento").classList.toggle("textoAgradecimientoMostrar");
+  }
+
+  function cerrarAgradecimiento(){
+
+  }
+  /*COMENTARIOS*/
     
     /*MENU DESPLEGABLE*/
     function toggleMenu() {

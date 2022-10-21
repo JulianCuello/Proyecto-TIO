@@ -1,0 +1,144 @@
+[33mcommit f22782d894c7c07213eb5c5ef95b319856f43213[m[33m ([m[1;36mHEAD -> [m[1;32mactualizaciones[m[33m, [m[1;31morigin/actualizaciones[m[33m)[m
+Author: Gerardo Saldain <gerardosaldain10@gmail.com>
+Date:   Fri Oct 21 01:15:19 2022 -0300
+
+    Cambio estilo input comentarios o sugerencias
+
+[33mcommit 57701b1b2d328383c37807efbc7f3664b230a205[m
+Author: Gerardo Saldain <gerardosaldain10@gmail.com>
+Date:   Fri Oct 21 00:51:30 2022 -0300
+
+    Agrego input para comentarios o sugerencias en index
+
+[33mcommit ea20cecdaf49df5938a7b10b21a65d660252906e[m
+Author: Leonel Viscay <leonelviscay@gmail.com>
+Date:   Thu Oct 20 19:55:21 2022 -0300
+
+    Agrego Listado de futuros corredores y Corrijo tildes y mayúsculas en pestaña inscripción
+
+[33mcommit 7ed52ef098b30c1a847c9627941d9b3cbb071ae9[m
+Author: Julian Cuello <Julianc_69@hotmail.com>
+Date:   Thu Oct 20 12:00:35 2022 -0300
+
+    actualizacion definitiva captcha:clave y nombres. cambios en integrantes
+
+[33mcommit 641a38c2a20281cca54dee454c61139db3ecd08c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: francisco <vazquezfrancisco1991@hotmail.com>
+Date:   Thu Oct 20 11:12:24 2022 -0300
+
+    agregue informacion en calendario, experiencias de running tandil
+
+[33mcommit 4b6bf093736baf0b8a2c7aa03865547762524faf[m
+Author: Mauro L. Pérez <mauro3lp@gmail.com>
+Date:   Sat Oct 15 13:35:46 2022 -0300
+
+    agrego texto al txt
+
+[33mcommit 9395ef75f2b1d5241874c9fe325e60a8cc6f15e7[m
+Author: Mauro L. Pérez <mauro3lp@gmail.com>
+Date:   Sat Oct 15 13:34:34 2022 -0300
+
+    texto de prueba 2
+
+[33mcommit 9dd81023a55f54b92a789521d3d7622e4e3c4868[m
+Author: Mauro L. Pérez <mauro3lp@gmail.com>
+Date:   Sat Oct 15 13:23:15 2022 -0300
+
+    Agrego texto de prueba
+
+[33mcommit e5025d89983dccf5872626a5e54b308393e5ba24[m
+Merge: 9d28fe2 2852d77
+Author: francisco <vazquezfrancisco1991@hotmail.com>
+Date:   Sat Oct 15 13:09:35 2022 -0300
+
+    merge rama prueba externa
+
+[33mcommit 9d28fe25e0986cfd5ac6c3173ebc8e86e9c90970[m
+Author: francisco <vazquezfrancisco1991@hotmail.com>
+Date:   Sat Oct 15 12:59:44 2022 -0300
+
+    corrijo, cambie titulo Index por uno general
+
+[33mcommit 2852d77a652f016b3c4c238f6de282b9eefe7dcb[m
+Author: Leonel Viscay <leonelviscay@gmail.com>
+Date:   Sat Oct 15 11:42:16 2022 -0300
+
+    cambio de rama y elimino archivo
+
+[33mcommit 8d3cdddebada41d1c26def91dd96adc5cc36c67d[m
+Author: Leonel Viscay <leonelviscay@gmail.com>
+Date:   Sat Oct 15 11:23:27 2022 -0300
+
+    Corrijo. Cambie nombre de Index a Index1
+
+[33mcommit a128479b5206e6938bed6e946e5dac456bc1cdcd[m
+Author: Leonel Viscay <leonelviscay@gmail.com>
+Date:   Sat Oct 15 10:42:52 2022 -0300
+
+    Cambio color Header a Gris oscuro
+
+[33mcommit 7d7417043ef9e00c49709d0e0d2347d746269118[m
+Author: Leonel Viscay <leonelviscay@gmail.com>
+Date:   Sat Oct 15 10:39:31 2022 -0300
+
+    Agrego una linea a 'requisitos de carrera' en pestaña inscripcion
+
+[33mcommit 6101a37c95c5295fd6a3170d246cb8c52ef79cbe[m
+Author: Leonel Viscay <leonelviscay@gmail.com>
+Date:   Sat Oct 15 10:34:55 2022 -0300
+
+    Cambio nombre pestaña Index
+
+[33mcommit ef1833e409038265d9b3b31f74dc02a6a4f4c8b8[m
+Author: Julian Cuello <Julianc_69@hotmail.com>
+Date:   Thu Oct 13 14:17:48 2022 -0300
+
+    agrego archivo de prueba
+
+[33mcommit 1223f9532e89244ef5335d033db09257406d42b6[m
+Author: francisco <vazquezfrancisco1991@hotmail.com>
+Date:   Thu Oct 13 14:13:19 2022 -0300
+
+    elimino archivo
+
+[33mcommit 7aa6bf5df28c39045a4ad0b974a4fb847e0dbede[m
+Author: Julian Cuello <Julianc_69@hotmail.com>
+Date:   Thu Oct 13 14:09:53 2022 -0300
+
+    sumo un nuevo archivo
+
+[33mcommit 055f4d7030a61dbfb77ab3a356559e1f2814dfe4[m
+Author: Julian Cuello <Julianc_69@hotmail.com>
+Date:   Thu Oct 13 14:01:33 2022 -0300
+
+    cambie de nombre a la captura
+
+[33mcommit 4ac5c43b5d09ebb3188832ff6d7d5c4fa84acd5a[m
+Author: francisco <vazquezfrancisco1991@hotmail.com>
+Date:   Thu Oct 13 13:57:04 2022 -0300
+
+     cambie nombre del archivo word por Historia
+
+[33mcommit 477dfdcabd54328b48b2d19305efd9c4e3c80c18[m
+Author: Julian Cuello <Julianc_69@hotmail.com>
+Date:   Thu Oct 13 13:49:12 2022 -0300
+
+    borre archivo de prueba
+
+[33mcommit c3294c1ae9d6a8c8e248767493e7d01652de2e96[m
+Author: francisco <vazquezfrancisco1991@hotmail.com>
+Date:   Thu Oct 13 13:27:19 2022 -0300
+
+    agregue archivo de prueba
+
+[33mcommit 0079600755f5e9a878be33ba687d7f2d81e5c3ce[m
+Author: Julian Cuello <Julianc_69@hotmail.com>
+Date:   Thu Oct 13 13:08:38 2022 -0300
+
+    agregue archivo word
+
+[33mcommit dcf98ca117a74db85c1aa48dbc44ee909021ebc2[m
+Author: Julian Cuello <Julianc_69@hotmail.com>
+Date:   Mon Oct 10 21:59:56 2022 -0300
+
+    Iniciando proyecyo

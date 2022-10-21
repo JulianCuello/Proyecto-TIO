@@ -257,6 +257,18 @@
      color:blanchedalmond;
      }
 
+     #input_comentario{
+      padding-bottom: 20%;
+      margin-bottom: 2%;
+   }
+   .textoAgradecimiento{
+      opacity: 0;
+   }
+
+   .textoAgradecimientoMostrar{
+      opacity: 1;
+   }
+
 
 /* MOBILE*/
 
