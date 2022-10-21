@@ -555,6 +555,16 @@
       flex-direction: column;
       width: 25%;
    }
+
+   #input_comentario{
+      padding-bottom: 50%;
+   }
+
+   #buttonComentario{
+      margin-top: 5%;
+   }
+   
+
    
 
 }
