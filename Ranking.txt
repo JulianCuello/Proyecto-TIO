@@ -1,1 +1,4 @@
-add/commits
+POS	NOMBRE	PUNTOS	EDAD
+1	C. Alcaraz	6,730	19
+2	R. Nadal	5,810	36
+3	C. Ruud	    5,600	 23
