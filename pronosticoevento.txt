@@ -1,0 +1,4 @@
+Pronostico Tandil Running evento
+
+El pronostico se actualizara, llegado a la fecha del evento.
+Se utilizara la aplicacion de Google para poder informar el pronostico para la fecha del evento.
